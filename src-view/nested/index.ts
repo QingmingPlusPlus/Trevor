@@ -1,0 +1,1 @@
+console.log('nested/index.ts');
